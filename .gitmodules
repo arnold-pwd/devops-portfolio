@@ -1,4 +1,7 @@
 [submodule "themes/gokarna"]
   path = themes/gokarna
   url = https://github.com/gokarna-theme/gokarna-hugo.git
+[submodule "public/public"]
+  path = public/public
+  url = https://github.com/gokarna-theme/gokarna-hugo.git
 
